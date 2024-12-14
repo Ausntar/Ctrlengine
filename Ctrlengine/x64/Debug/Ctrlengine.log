@@ -1,0 +1,351 @@
+﻿  c2d-main.cpp
+\C2D\c2d-main.cpp(1,1): error C1083: 无法打开源文件: “C2D\c2d-main.cpp”: No such file or directory
+  (编译源文件“/C2D/c2d-main.cpp”)
+  
+  application.cpp
+\C3D\application.cpp(1,1): error C1083: 无法打开源文件: “C3D\application.cpp”: No such file or directory
+  (编译源文件“/C3D/application.cpp”)
+  
+  c3d-pipeline.cpp
+\C3D\c3d-pipeline.cpp(1,1): error C1083: 无法打开源文件: “C3D\c3d-pipeline.cpp”: No such file or directory
+  (编译源文件“/C3D/c3d-pipeline.cpp”)
+  
+  c3d-render-obj.cpp
+\C3D\c3d-render-obj.cpp(1,1): error C1083: 无法打开源文件: “C3D\c3d-render-obj.cpp”: No such file or directory
+  (编译源文件“/C3D/c3d-render-obj.cpp”)
+  
+  CteAdditionalPackages.cpp
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x30d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x30e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x311 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x313 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x314 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x315 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x316 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x31a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x31e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x31f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x322 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x323 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x324 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x325 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x326 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x327 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x32d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x32e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x332 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3a2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3a3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3ac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3ad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3b5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3e5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3eb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x3ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x81e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x821 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x822 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x823 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x824 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x825 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x826 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x827 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x8b9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x8ba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x8bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x8be 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x8bf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x8c2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x8c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x8c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x8ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x8cb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x8cd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x8ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x8fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x900 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x901 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x902 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x904 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x905 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x906 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0x909 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xa09 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xa0b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xa0d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xa0e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xa10 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xa12 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xa16 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xa17 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xa1a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xe97 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xe99 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xe9a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xe9b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xe9d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xe9e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xea0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xea4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xea5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xea8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xed6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xed8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xed9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xeda 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xedc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xedd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xede 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(1,1): warning C4828: 文件包含在偏移 0xee1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.hpp(1,1): warning C4828: 文件包含在偏移 0x15d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Additional%20Packages/CteAdditionalPackages.cpp”)
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.hpp(1,1): warning C4828: 文件包含在偏移 0x15f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Additional%20Packages/CteAdditionalPackages.cpp”)
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.hpp(1,1): warning C4828: 文件包含在偏移 0x164 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Additional%20Packages/CteAdditionalPackages.cpp”)
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.hpp(1,1): warning C4828: 文件包含在偏移 0x166 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Additional%20Packages/CteAdditionalPackages.cpp”)
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.hpp(1,1): warning C4828: 文件包含在偏移 0x167 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Additional%20Packages/CteAdditionalPackages.cpp”)
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(10,91): error C2572: “cte::CteAdditionalPackages::readAdditionalPackage”: 重定义默认参数 : 参数 1
+      E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.hpp(15,28):
+      参见“cte::CteAdditionalPackages::readAdditionalPackage”的声明
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(25,13): error C2561: “cte::CteAdditionalPackages::readAdditionalPackage”: 函数必须返回值
+      E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Additional Packages\CteAdditionalPackages.cpp(10,50):
+      参见“cte::CteAdditionalPackages::readAdditionalPackage”的声明
+  
+  ObjParsing.cpp
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\3D\ObjParsing.cpp(1,1): warning C4828: 文件包含在偏移 0x61c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\3D\ObjParsing.cpp(1,1): warning C4828: 文件包含在偏移 0x61d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\3D\ObjParsing.cpp(1,1): warning C4828: 文件包含在偏移 0x621 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\3D\ObjParsing.cpp(1,1): warning C4828: 文件包含在偏移 0x622 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\3D\ObjParsing.cpp(1,1): warning C4828: 文件包含在偏移 0x623 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\3D\ObjParsing.cpp(1,1): warning C4828: 文件包含在偏移 0x625 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\3D\ObjParsing.cpp(1,1): warning C4828: 文件包含在偏移 0x628 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\3D\ObjParsing.cpp(1,1): warning C4828: 文件包含在偏移 0x629 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\3D\ObjParsing.cpp(1,1): warning C4828: 文件包含在偏移 0x62a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\3D\ObjParsing.cpp(1,1): warning C4828: 文件包含在偏移 0x62c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\3D\ObjParsing.cpp(1,1): warning C4828: 文件包含在偏移 0x62d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\3D\ObjParsing.cpp(1,1): warning C4828: 文件包含在偏移 0x62e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\3D\ObjParsing.cpp(1,1): warning C4828: 文件包含在偏移 0x62f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“Type/3D/ObjParsing.cpp”)
+      E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\glfw-3.4.bin.WIN64\include\GLFW\glfw3.h(123,11):
+      参见“APIENTRY”的前一个定义
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.hpp(13,99): error C2548: “cte::CteWindow::initWindow”: 缺少形参 3 的默认实参
+  (编译源文件“Type/3D/ObjParsing.cpp”)
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.hpp(13,99): error C2548: “cte::CteWindow::initWindow”: 缺少形参 4 的默认实参
+  (编译源文件“Type/3D/ObjParsing.cpp”)
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\3D\ObjParsing.cpp(17,9): error C3861: “processNode”: 找不到标识符
+  CteVulkan.cpp
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x5a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x5b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x5c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x5d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x66 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x67 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x32c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x32e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x32f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x332 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x333 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x336 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x680 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x681 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x682 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x683 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x684 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x686 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x687 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x688 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x68a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x68b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x68c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x68f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x691 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x6ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x6ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x6f0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x6f4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x6f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x6f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x6f9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x6fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x6fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x700 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x701 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x713 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x714 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x719 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x71b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x71c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x71e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x720 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0x723 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0xb0a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0xb0b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0xb0d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0xb0e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0xb0f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0xdde 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0xde0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0xde1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0xde3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0xde4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0xde5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(1,1): warning C4828: 文件包含在偏移 0xde9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“Type/CteVulkan.cpp”)
+      E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\glfw-3.4.bin.WIN64\include\GLFW\glfw3.h(123,11):
+      参见“APIENTRY”的前一个定义
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.hpp(13,99): error C2548: “cte::CteWindow::initWindow”: 缺少形参 3 的默认实参
+  (编译源文件“Type/CteVulkan.cpp”)
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.hpp(13,99): error C2548: “cte::CteWindow::initWindow”: 缺少形参 4 的默认实参
+  (编译源文件“Type/CteVulkan.cpp”)
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\CteVulkan.cpp(41,9): error C3861: “pickPhysicalDevice”: 找不到标识符
+  Multilingual.cpp
+  CteWindow.cpp
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xe6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xe7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xeb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x108 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x109 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x10d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x110 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x111 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x199 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x19a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x19b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x19e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x19f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1a3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1b9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1ba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1bb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1be 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1bf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1c0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x2af 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x2bc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x2bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x2c0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x2c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x2c5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“Window/CteWindow.cpp”)
+      E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\glfw-3.4.bin.WIN64\include\GLFW\glfw3.h(123,11):
+      参见“APIENTRY”的前一个定义
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.hpp(13,99): error C2548: “cte::CteWindow::initWindow”: 缺少形参 3 的默认实参
+  (编译源文件“Window/CteWindow.cpp”)
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.hpp(13,99): error C2548: “cte::CteWindow::initWindow”: 缺少形参 4 的默认实参
+  (编译源文件“Window/CteWindow.cpp”)
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(3,78): error C2572: “cte::CteWindow::initWindow”: 重定义默认参数 : 参数 1
+      E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.hpp(13,15):
+      参见“cte::CteWindow::initWindow”的声明
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(3,109): error C2548: “cte::CteWindow::initWindow”: 缺少形参 3 的默认实参
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(3,109): error C2548: “cte::CteWindow::initWindow”: 缺少形参 4 的默认实参
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(7,18): error C2001: 常量中有换行符
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(8,4): error C2143: 语法错误: 缺少“)”(在“return”的前面)
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(8,4): error C2143: 语法错误: 缺少“;”(在“return”的前面)
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(13,18): error C2001: 常量中有换行符
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(14,4): error C2146: 语法错误: 缺少“)”(在标识符“glfwTerminate”的前面)
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.cpp(14,4): error C2146: 语法错误: 缺少“;”(在标识符“glfwTerminate”的前面)
+  Ctrlengine3D.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“Type/3D/Ctrlengine3D.cpp”)
+      E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\glfw-3.4.bin.WIN64\include\GLFW\glfw3.h(123,11):
+      参见“APIENTRY”的前一个定义
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.hpp(13,99): error C2548: “cte::CteWindow::initWindow”: 缺少形参 3 的默认实参
+  (编译源文件“Type/3D/Ctrlengine3D.cpp”)
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Window\CteWindow.hpp(13,99): error C2548: “cte::CteWindow::initWindow”: 缺少形参 4 的默认实参
+  (编译源文件“Type/3D/Ctrlengine3D.cpp”)
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\3D\Ctrlengine3D.cpp(2,8): error C2011: “Vertex”:“struct”类型重定义
+      E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\3D\ObjParsing.hpp(8,8):
+      参见“Vertex”的声明
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Type\3D\Ctrlengine3D.cpp(64,37): error C3861: “findMemoryType”: 找不到标识符
+  Music.cpp
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.cpp(1,1): warning C4828: 文件包含在偏移 0x25b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.cpp(1,1): warning C4828: 文件包含在偏移 0x25d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.cpp(1,1): warning C4828: 文件包含在偏移 0x262 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.cpp(1,1): warning C4828: 文件包含在偏移 0x264 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.cpp(1,1): warning C4828: 文件包含在偏移 0x265 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.cpp(1,1): warning C4828: 文件包含在偏移 0x27c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.cpp(1,1): warning C4828: 文件包含在偏移 0x27d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.cpp(1,1): warning C4828: 文件包含在偏移 0x280 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.cpp(1,1): warning C4828: 文件包含在偏移 0x281 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.cpp(1,1): warning C4828: 文件包含在偏移 0x282 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.cpp(1,1): warning C4828: 文件包含在偏移 0x283 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.cpp(1,1): warning C4828: 文件包含在偏移 0x30f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.cpp(1,1): warning C4828: 文件包含在偏移 0x310 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.cpp(1,1): warning C4828: 文件包含在偏移 0x311 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.cpp(1,1): warning C4828: 文件包含在偏移 0x312 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.cpp(1,1): warning C4828: 文件包含在偏移 0x314 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.hpp(1,1): warning C4828: 文件包含在偏移 0x15d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Music/Music.cpp”)
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.hpp(1,1): warning C4828: 文件包含在偏移 0x15f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Music/Music.cpp”)
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.hpp(1,1): warning C4828: 文件包含在偏移 0x164 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Music/Music.cpp”)
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.hpp(1,1): warning C4828: 文件包含在偏移 0x166 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Music/Music.cpp”)
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.hpp(1,1): warning C4828: 文件包含在偏移 0x167 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Music/Music.cpp”)
+  
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.cpp(22,73): error C2572: “cte::Music::waitMusicFinishPlay”: 重定义默认参数 : 参数 1
+      E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\Music\Music.hpp(15,8):
+      参见“cte::Music::waitMusicFinishPlay”的声明
+  
+  readJson.cpp
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\ReadJson\readJson.cpp(1,1): warning C4828: 文件包含在偏移 0xfc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\ReadJson\readJson.cpp(1,1): warning C4828: 文件包含在偏移 0xfe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\ReadJson\readJson.cpp(1,1): warning C4828: 文件包含在偏移 0xff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\ReadJson\readJson.cpp(1,1): warning C4828: 文件包含在偏移 0x100 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\ReadJson\readJson.cpp(1,1): warning C4828: 文件包含在偏移 0x101 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\ReadJson\readJson.cpp(1,1): warning C4828: 文件包含在偏移 0x107 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\ReadJson\readJson.cpp(1,1): warning C4828: 文件包含在偏移 0x313 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\ReadJson\readJson.cpp(1,1): warning C4828: 文件包含在偏移 0x314 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\ReadJson\readJson.cpp(1,1): warning C4828: 文件包含在偏移 0x317 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Ctrlengine\ReadJson\readJson.cpp(1,1): warning C4828: 文件包含在偏移 0x318 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  正在生成代码...

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C2D\c2d-main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C3D\application.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C3D\c3d-render-obj.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C3D\c3d-pipeline.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadJson\readJson.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Type\3D\Ctrlengine3D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Music\Music.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Window\CteWindow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Additional Packages\CteAdditionalPackages.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Language\Multilingual.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Type\CteVulkan.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Type\3D\ObjParsing.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C2D\c2d-main.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C3D\application.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C3D\c3d-render-obj.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C3D\c3d-pipeline.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ReadJson\readJson.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Type\3D\Ctrlengine3D.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Music\Music.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Window\CteWindow.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Additional Packages\CteAdditionalPackages.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Language\Multilingual.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Type\CteVulkan.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Type\3D\ObjParsing.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Ctrlengine\engine.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shaders\shader.vert" />
+    <None Include="shaders\shader.frag" />
+    <None Include="shaders\compile.bat">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="Language\Language\Chinese.json" />
+    <None Include="glfw3.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="icon.png">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Language\Font\VonwaonBitmap\VonwaonBitmap-16px.ttf" />
+    <Font Include="Language\Font\VonwaonBitmap\VonwaonBitmap-12px.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="assimp-vc143-mt.lib" />
+    <Library Include="bass.lib" />
+    <Library Include="glfw3.lib" />
+    <Library Include="glfw3_mt.lib" />
+    <Library Include="glfw3dll.lib" />
+    <Library Include="vulkan-1.lib" />
+  </ItemGroup>
+</Project>

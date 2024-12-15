@@ -10,6 +10,7 @@
 5. nlohmann-json(https://github.com/nlohmann/json)
 6. stb-master(https://github.com/nothings/stb)
 7. Vulkan(https://www.vulkan.org/)
+8. Freetype(https://github.com/freetype/freetype)
 
 (在使用之前请正确安装这些库！)
 ---

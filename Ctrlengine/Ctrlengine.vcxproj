@@ -71,7 +71,7 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\stb-master;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\spdlog-1.x\include;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\json-3.11.3\include;D:\VulkanSDK\Include;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\glfw-3.4.bin.WIN64\include;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\Assimp\include;$(IncludePath)</IncludePath>
+    <IncludePath>E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\freetype-master\include;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\stb-master;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\spdlog-1.x\include;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\json-3.11.3\include;D:\VulkanSDK\Include;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\glfw-3.4.bin.WIN64\include;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\Assimp\include;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -107,7 +107,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\stb-master;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\bass\c;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\spdlog-1.x\include;D:\VulkanSDK\1.3.296.0\Include;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\Assimp\include;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\glfw-3.4.bin.WIN64\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\freetype-master;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\stb-master;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\bass\c;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\spdlog-1.x\include;D:\VulkanSDK\1.3.296.0\Include;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\Assimp\include;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\glfw-3.4.bin.WIN64\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <LanguageStandard>stdcpp20</LanguageStandard>
       <LanguageStandard_C>stdc17</LanguageStandard_C>
       <AdditionalOptions>/utf-8 %(AdditionalOptions)</AdditionalOptions>
@@ -115,7 +115,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\stb-master;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\bass;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\spdlog-1.x;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\json-3.11.3;D:\VulkanSDK\1.3.296.0;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\glfw-3.4.bin.WIN64;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\Assimp;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\freetype-master;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\stb-master;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\bass;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\spdlog-1.x;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\json-3.11.3;D:\VulkanSDK\1.3.296.0;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\glfw-3.4.bin.WIN64;E:\360MoveData\Users\迟权睿\Desktop\Ctrlengine\Library\Assimp;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>glfw3.lib;glfw3_mt.lib;glfw3dll.lib;assimp-vc143-mt.lib;vulkan-1.lib;bass.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -141,8 +141,9 @@
     <ClCompile Include="C3D\c3d-pipeline.cpp" />
     <ClCompile Include="C3D\c3d-render-obj.cpp" />
     <ClCompile Include="Additional Packages\CteAdditionalPackages.cpp" />
+    <ClCompile Include="Vulkan Render\Initialization.cpp" />
     <ClCompile Include="Type\3D\ObjParsing.cpp" />
-    <ClCompile Include="Type\CteVulkan.cpp" />
+    <ClCompile Include="Vulkan Render\CteVulkan.cpp" />
     <ClCompile Include="Language\Multilingual.cpp" />
     <ClCompile Include="Window\CteWindow.cpp" />
     <ClCompile Include="Type\3D\Ctrlengine3D.cpp" />
@@ -156,8 +157,9 @@
     <ClInclude Include="C3D\c3d-render-obj.h" />
     <ClInclude Include="Additional Packages\CteAdditionalPackages.hpp" />
     <ClInclude Include="include\Ctrlengine\engine.hpp" />
+    <ClInclude Include="Vulkan Render\Initialization.hpp" />
     <ClInclude Include="Type\3D\ObjParsing.hpp" />
-    <ClInclude Include="Type\CteVulkan.hpp" />
+    <ClInclude Include="Vulkan Render\CteVulkan.hpp" />
     <ClInclude Include="Language\Multilingual.hpp" />
     <ClInclude Include="Window\CteWindow.hpp" />
     <ClInclude Include="Type\3D\Ctrlengine3D.hpp" />

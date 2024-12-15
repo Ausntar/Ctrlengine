@@ -1,5 +1,4 @@
 #include "readJson.hpp"
-using json = nlohmann::json;
 namespace cte {
 	std::string ReadJson::readFile(const std::string path) {
 		std::ifstream file(path);

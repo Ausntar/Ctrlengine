@@ -45,10 +45,13 @@
     <ClCompile Include="Language\Multilingual.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Type\CteVulkan.cpp">
+    <ClCompile Include="Vulkan Render\CteVulkan.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Type\3D\ObjParsing.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Vulkan Render\Initialization.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -83,13 +86,16 @@
     <ClInclude Include="Language\Multilingual.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="Type\CteVulkan.hpp">
+    <ClInclude Include="Vulkan Render\CteVulkan.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Type\3D\ObjParsing.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="include\Ctrlengine\engine.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Vulkan Render\Initialization.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

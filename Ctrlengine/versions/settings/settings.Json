@@ -1,0 +1,15 @@
+{
+  "gameName": "Ctrlengine",
+  "gameVersion": "1.0",
+  "gameType": "3D",
+  "windowWidth": 800,
+  "windowHeight": 600,
+  "enableVsync": true,
+  "frameRate": 200,
+  "tick": 20,
+  "renderAPI": "Vulkan",
+  "enableDebug": true,
+  "enableConsole": true,
+  "enableMouse": true,
+  "language": "Chinese"
+}

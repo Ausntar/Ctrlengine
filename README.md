@@ -21,34 +21,34 @@
 首先安装上面列出来的库，要不然运行都运行不了 qwq
 	如果你成功安装了这些库，把“Ctrlengine”文件夹放到你的C++项目的目录下，确保在Visual Studio或者Visual Studio Code的“资源管理器”视图中可以看到这个文件夹
 	这个文件夹应该包括以下文件：
-Ctrlengine
-	├─logs
-	├─main
-	├─model
-	│  └─obj
-	├─verify
-	├─versions
-	│  ├─core
-	│  │  ├─2D
-	│  │  │  └─role
-	│  │  └─3D
-	│  │      └─role
-	│  ├─error
-	│  ├─file management
-	│  │  └─file
-	│  │      ├─file
-	│  │      ├─model
-	│  │      ├─music
-	│  │      └─texture
-	│  ├─log
-	│  ├─performance
-	│  ├─readfile
-	│  ├─register
-	│  ├─settings
-	│  ├─sound
-	│  └─window
-	└─Vulkan
-	    └─shaders
+Ctrlengine <br>
+	├─logs <br>
+	├─main <br>
+	├─model <br>
+	│  └─obj <br>
+	├─verify <br>
+	├─versions <br>
+	│  ├─core <br>
+	│  │  ├─2D <br>
+	│  │  │  └─role <br>
+	│  │  └─3D <br>
+	│  │      └─role <br>
+	│  ├─error <br>
+	│  ├─file management <br>
+	│  │  └─file <br>
+	│  │      ├─file <br>
+	│  │      ├─model <br>
+	│  │      ├─music <br>
+	│  │      └─texture <br>
+	│  ├─log <br>
+	│  ├─performance <br>
+	│  ├─readfile <br>
+	│  ├─register <br>
+	│  ├─settings <br>
+	│  ├─sound <br>
+	│  └─window <br>
+	└─Vulkan <br>
+	    └─shaders <br>
 	运行代码，你会看见一个彩色三角形（前提是你的显卡支持Vulkan）
 	打开"main"文件夹下的"main.cpp",你应该看到如下内容:
 
